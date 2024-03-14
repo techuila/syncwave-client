@@ -1,13 +1,13 @@
 # SyncWave Client
 
-SyncWave-Server is the backbone of the SyncWave synchronization system, designed to manage real-time data synchronization and WebSocket connections efficiently. It ensures seamless data flow between the server and clients, providing a robust solution for applications requiring real-time data updates and offline synchronization capabilities.
+SyncWave-Client is a sophisticated client library designed to seamlessly synchronize data between your application and the SyncWave-Server, ensuring real-time updates and efficient offline data handling. It's built to provide a robust solution for applications requiring immediate data consistency across devices, with a special focus on conflict resolution and ease of integration.
 
 ## Features
 
-- Real-time data synchronization via WebSockets.
-- Efficient conflict resolution mechanism.
-- Scalable architecture to support numerous client connections.
-- Secure authentication and authorization for WebSocket connections.
+- **Real-Time Synchronization**: Keep your application data in sync across all devices in real time.
+- **Offline Support**: Changes made offline are automatically synchronized when the connection is re-established.
+- **Conflict Resolution**: Advanced conflict resolution strategies to maintain data integrity.
+- **Lightweight and Modular**: Designed to be both lightweight and easily integrable into existing projects.
 
 ## Getting Started
 
