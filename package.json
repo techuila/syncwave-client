@@ -1,0 +1,31 @@
+{
+	"name": "syncwave-client",
+	"version": "1.0.0",
+	"description": "A lightweight, efficient client-side library for seamless data syncing with SyncWave-Server, featuring offline support and conflict resolution.",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [
+		"syncwave",
+		"data synchronization",
+		"real-time",
+		"websocket client",
+		"offline data sync",
+		"conflict resolution",
+		"client library",
+		"data sync",
+		"real-time updates",
+		"websockets",
+		"frontend synchronization",
+		"cross-device sync",
+		"sync framework",
+		"live data"
+	],
+	"license": "MIT",
+	"author": "Axl Cuyugan",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/techuila/syncwave-client.git"
+	}
+}
